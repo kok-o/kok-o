@@ -16,23 +16,12 @@
 
 ## About Me
 
-```javascript
-const nurkhan = {
-  name:       "Nurkhan Esenbek",
-  alias:      "kok-o",
-  location:   "Kazakhstan",
-  education:  "Astana IT College, Astana",
-  experience: [
-    "SpaceLab — Internship",
-    "iQadam System — Internship (Certificate holder)",
-  ],
-  languages:  ["Java", "JavaScript", "Python", "C#", "Dart"],
-  stack:      ["React", "Node.js", "Spring Boot", "Django", "Flask", "Docker"],
-  building:   "AI-powered dev tools",
-  interests:  ["Japanese Culture", "Anime", "Clean Code", "Open Source"],
-  funFact:    "My code and my ramen are both always well-structured",
-};
-```
+I'm a **Full Stack Developer** from Kazakhstan, passionate about building smart, scalable applications and AI-powered tools.
+
+- 🎓 **Education:** Astana IT College, Astana
+- 💼 **Experience:** Internships at [SpaceLab](https://spacelab.kz/ru) & iQadam System
+- 🎯 **Focus:** Building AI-powered dev tools & clean architectures
+- ⚡ **Interests:** Japanese culture, anime, and open source
 
 ---
 
@@ -135,13 +124,11 @@ const nurkhan = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/kok-o/kok-o/output/github-snake-dark.svg" />
 </picture>
 
-```
-  ／￣￣ヽ
- ／  ●  ● ヽ     "Code is poetry, and I write mine
-│    ▽     │       with the precision of a samurai."
- ＼  Zzz  ／
-   ￣￣￣
-```
+<br/>
+
+### (⌐■_■)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:0d1117&height=100&section=footer" alt="footer" width="100%" />
 
