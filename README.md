@@ -18,10 +18,10 @@
 
 I'm a **Full Stack Developer** from Kazakhstan, passionate about building smart, scalable applications and AI-powered tools.
 
-- 🎓 **Education:** Astana IT College, Astana
-- 💼 **Experience:** Internships at [SpaceLab](https://spacelab.kz/ru) & iQadam System
-- 🎯 **Focus:** Building AI-powered dev tools & clean architectures
-- ⚡ **Interests:** Japanese culture, anime, and open source
+- **Education:** Astana IT College, Astana
+- **Experience:** Internships at [SpaceLab](https://spacelab.kz/ru) & iQadam System
+- **Focus:** Building AI-powered dev tools & clean architectures
+- **Interests:** Japanese culture, anime, and open source
 
 ---
 
