@@ -109,8 +109,7 @@ I'm a **Full Stack Developer** from Kazakhstan, passionate about building smart,
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/@k0ko__tg-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0ko_tg)
-[![Gmail](https://img.shields.io/badge/arkkoko1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkkoko1@gmail.com)
-[![GitHub](https://img.shields.io/badge/kok--o-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kok-o)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurkhan-esenbek-9b9979419)
 
 </div>
 
