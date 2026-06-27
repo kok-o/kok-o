@@ -71,23 +71,7 @@ I'm a **Full Stack Developer** from Kazakhstan, passionate about building smart,
 
 </div>
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kok-o&show_icons=true&theme=radical&border_color=7928ca&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=ff0080&hide_border=false&count_private=true" height="165" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kok-o&layout=compact&theme=radical&border_color=7928ca&bg_color=0d1117&title_color=a855f7&text_color=ffffff&hide_border=false" height="165" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kok-o&theme=radical&border=7928CA&background=0D1117&ring=A855F7&fire=FF0080&currStreakLabel=A855F7" alt="GitHub Streak" />
-
-</div>
 
 ---
 
@@ -102,16 +86,6 @@ I'm a **Full Stack Developer** from Kazakhstan, passionate about building smart,
 
 </div>
 
----
-
-## Connect
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/@k0ko__tg-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0ko_tg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurkhan-esenbek-9b9979419)
-
-</div>
 
 ---
 
