@@ -82,7 +82,7 @@ I'm a **Full Stack Developer** from Kazakhstan, passionate about building smart,
 | Company | Role | Type |
 |--------|------|------|
 | [SpaceLab](https://spacelab.kz/ru) | Full Stack Developer | Internship |
-| iQadam System | Software Developer | Internship · Certificate |
+| iQadam System | Software Developer | Internship · [Certificate](./iqadam_certificate.jpg) |
 
 </div>
 
