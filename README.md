@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7928ca,100:ff0080&height=200&section=header&text=Nurkhan%20Esenbek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7928ca,100:ff0080&height=200&section=header&text=Nurkhan%20Esenbek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Nurkhan;Full+Stack+Developer+from+Kazakhstan;Java+%7C+JavaScript+%7C+Python;Building+AI-powered+dev+tools;Fan+of+Japanese+culture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Nurkhan;Frontend+Developer+from+Kazakhstan;Java+%7C+JavaScript+%7C+Python;Building+AI-powered+dev+tools;Fan+of+Japanese+culture" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a **Full Stack Developer** from Kazakhstan, passionate about building smart, scalable applications and AI-powered tools.
+I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, scalable applications and AI-powered tools.
 
 - **Education:** Astana IT College, Astana
 - **Experience:** Internships at [SpaceLab](https://spacelab.kz/ru) & iQadam System
@@ -81,7 +81,7 @@ I'm a **Full Stack Developer** from Kazakhstan, passionate about building smart,
 
 | Company | Role | Type |
 |--------|------|------|
-| [SpaceLab](https://spacelab.kz/ru) | Full Stack Developer | Internship |
+| [SpaceLab](https://spacelab.kz/ru) | Frontend Developer | Internship |
 | iQadam System | Software Developer | Internship · [Certificate](./iqadam_certificate.jpg) |
 
 </div>
