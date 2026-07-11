@@ -29,11 +29,7 @@ I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, s
 
 <div align="center">
 
-<a href="https://github.com/kok-o/koko-contextos-agents">
-  <img src="./log_k.jpg" alt="koko-contextos-agents logo" width="120" style="border-radius: 50%;" />
-</a>
-
-### [koko-contextos-agents](https://github.com/kok-o/koko-contextos-agents)
+### <a href="https://github.com/kok-o/koko-contextos-agents"><img src="./log_k_circle.png" width="40" align="center" alt="logo" /> koko-contextos-agents</a>
 
 > **Agent Configurations** — Shareable ContextOS AI-agent setups and custom skills via GitHub.
 
