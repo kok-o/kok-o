@@ -63,11 +63,11 @@ I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, s
 
 <div align="center">
 
-### CodeAi — AI-Powered Code Assistant
+### koko-contextos-agents
 
-[![CodeAi](https://github-readme-stats.vercel.app/api/pin/?username=kok-o&repo=CodeAi&theme=radical&border_color=7928ca&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=ff0080)](https://github.com/kok-o/CodeAi)
+[![koko-contextos-agents](https://github-readme-stats.vercel.app/api/pin/?username=kok-o&repo=koko-contextos-agents&theme=radical&border_color=7928ca&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=ff0080)](https://github.com/kok-o/koko-contextos-agents)
 
-> **Diploma Project** — An intelligent AI-powered assistant built to help developers write, analyze, and debug code more efficiently.
+> **Agent Configurations** — Shareable ContextOS AI-agent setups and custom skills via GitHub.
 
 </div>
 
