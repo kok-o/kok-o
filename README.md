@@ -25,6 +25,20 @@ I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, s
 
 ---
 
+## Featured Project
+
+<div align="center">
+
+### koko-contextos-agents
+
+[![koko-contextos-agents](https://github-readme-stats.vercel.app/api/pin/?username=kok-o&repo=koko-contextos-agents&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF)](https://github.com/kok-o/koko-contextos-agents)
+
+> **Agent Configurations** — Shareable ContextOS AI-agent setups and custom skills via GitHub.
+
+</div>
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -54,20 +68,6 @@ I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, s
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-</div>
-
----
-
-## Featured Project
-
-<div align="center">
-
-### koko-contextos-agents
-
-[![koko-contextos-agents](https://github-readme-stats.vercel.app/api/pin/?username=kok-o&repo=koko-contextos-agents&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF)](https://github.com/kok-o/koko-contextos-agents)
-
-> **Agent Configurations** — Shareable ContextOS AI-agent setups and custom skills via GitHub.
 
 </div>
 
