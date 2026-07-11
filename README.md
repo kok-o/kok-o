@@ -31,7 +31,9 @@ I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, s
 
 ### koko-contextos-agents
 
-[![koko-contextos-agents](https://github-readme-stats.vercel.app/api/pin/?username=kok-o&repo=koko-contextos-agents&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF)](https://github.com/kok-o/koko-contextos-agents)
+<a href="https://github.com/kok-o/koko-contextos-agents">
+  <img src="https://github.com/kok-o.png" alt="koko-contextos-agents logo" width="250" />
+</a>
 
 > **Agent Configurations** — Shareable ContextOS AI-agent setups and custom skills via GitHub.
 
