@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7928ca,100:ff0080&height=200&section=header&text=Nurkhan%20Esenbek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Nurkhan%20Esenbek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Nurkhan;Frontend+Developer+from+Kazakhstan;Java+%7C+JavaScript+%7C+Python;Building+AI-powered+dev+tools;Fan+of+Japanese+culture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EDEDED&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Nurkhan;Frontend+Developer+from+Kazakhstan;Java+%7C+JavaScript+%7C+Python;Building+AI-powered+dev+tools;Fan+of+Japanese+culture" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kok-o&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=kok-o&color=333333&style=flat-square&label=Profile+Views" alt="profile views" />
 
 </div>
 
@@ -65,7 +65,7 @@ I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, s
 
 ### koko-contextos-agents
 
-[![koko-contextos-agents](https://github-readme-stats.vercel.app/api/pin/?username=kok-o&repo=koko-contextos-agents&theme=radical&border_color=7928ca&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=ff0080)](https://github.com/kok-o/koko-contextos-agents)
+[![koko-contextos-agents](https://github-readme-stats.vercel.app/api/pin/?username=kok-o&repo=koko-contextos-agents&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF)](https://github.com/kok-o/koko-contextos-agents)
 
 > **Agent Configurations** — Shareable ContextOS AI-agent setups and custom skills via GitHub.
 
@@ -103,6 +103,6 @@ I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, s
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:0d1117&height=100&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=100&section=footer" alt="footer" width="100%" />
 
 </div>
