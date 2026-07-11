@@ -1,64 +1,108 @@
-# Nurkhan Esenbek
-**Full Stack Developer & AI Integration Engineer**
+<div align="center">
 
-> Building intelligent developer tools, modern web experiences, and scalable architectures. 
-> Passionate about clean code, developer experience, and product thinking.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7928ca,100:ff0080&height=200&section=header&text=Nurkhan%20Esenbek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
 
-[Portfolio](https://github.com/kok-o) · [LinkedIn](https://linkedin.com/in/nurkhan-esenbek) · [GitHub Projects](https://github.com/kok-o?tab=repositories) · [Email](mailto:nurkhan.esenbek@gmail.com)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Nurkhan;Frontend+Developer+from+Kazakhstan;Java+%7C+JavaScript+%7C+Python;Building+AI-powered+dev+tools;Fan+of+Japanese+culture" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kok-o&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+
+</div>
 
 ---
 
-## Featured Projects
+## About Me
 
-### [ContextOS Agents](https://github.com/kok-o/koko-contextos-agents)
-Shareable ContextOS AI-agent setups and custom skills for intelligent automation.  
-`Python` `ContextOS` `AI` `Prompt Engineering`
+I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, scalable applications and AI-powered tools.
+
+- **Education:** Astana IT College, Astana
+- **Experience:** Internships at [SpaceLab](https://spacelab.kz/ru) & iQadam System
+- **Focus:** Building AI-powered dev tools & clean architectures
+- **Interests:** Japanese culture, anime, and open source
 
 ---
 
 ## Tech Stack
 
-- **Frontend:** `React` `JavaScript`
-- **Backend:** `Node.js` `Spring Boot` `Django` `Flask` `Java` `Python` `C#`
-- **AI:** `ContextOS` `Aiogram` `LLMs`
-- **Cloud:** `PostgreSQL`
-- **Mobile:** `Dart`
-- **DevOps:** `Docker` `Git` `GitHub Actions`
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+**Tools & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
+---
+
+## Featured Project
+
+<div align="center">
+
+### koko-contextos-agents
+
+[![koko-contextos-agents](https://github-readme-stats.vercel.app/api/pin/?username=kok-o&repo=koko-contextos-agents&theme=radical&border_color=7928ca&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=ff0080)](https://github.com/kok-o/koko-contextos-agents)
+
+> **Agent Configurations** — Shareable ContextOS AI-agent setups and custom skills via GitHub.
+
+</div>
+
+
 
 ---
 
 ## Experience
 
-### Professional Experience
-- **iQadam System** · Software Developer
-- **SpaceLab** · Frontend Developer
+<div align="center">
 
-### Education
-- **Astana IT College** · Software Engineering & Computer Science
+| Company | Role | Type |
+|--------|------|------|
+| [SpaceLab](https://spacelab.kz/ru) | Frontend Developer | Internship |
+| iQadam System | Software Developer | Internship · [Certificate](./iqadam_certificate.jpg) |
 
-### Current Focus
-- AI Integration · Modern Web Development · Clean Architecture
+</div>
 
----
-
-## Currently Building
-
-Developing advanced AI-powered developer tools and exploring modern architectural patterns to improve system scalability and the overall developer experience.
 
 ---
 
-## Activity
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kok-o/kok-o/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kok-o/kok-o/output/github-snake.svg" />
-  <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/kok-o/kok-o/output/github-snake-dark.svg" width="100%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kok-o/kok-o/output/github-snake-dark.svg" />
 </picture>
 
----
+<br/>
 
-## Contact
+### (⌐■_■)
 
-Always open to discussing product design, clean architecture, and modern web development.
+<br/>
 
-**[Reach out](mailto:nurkhan.esenbek@gmail.com)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:0d1117&height=100&section=footer" alt="footer" width="100%" />
+
+</div>
