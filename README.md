@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Nurkhan%20Esenbek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Nurkhan%20Esenbek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EDEDED&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Nurkhan;Frontend+Developer+from+Kazakhstan;Java+%7C+JavaScript+%7C+Python;Building+AI-powered+dev+tools;Fan+of+Japanese+culture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EDEDED&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Nurkhan;Software+Developer+from+Kazakhstan;Java+%7C+JavaScript+%7C+Python;Building+AI-powered+dev+tools;Fan+of+Japanese+culture" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, scalable applications and AI-powered tools.
+I'm a **Software Developer** from Kazakhstan, passionate about building smart, scalable applications and AI-powered tools.
 
 - **Education:** Astana IT College, Astana
 - **Experience:** Internships at [SpaceLab](https://spacelab.kz/ru) & iQadam System
@@ -79,7 +79,7 @@ I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, s
 
 | Company | Role | Type |
 |--------|------|------|
-| [SpaceLab](https://spacelab.kz/ru) | Frontend Developer | Internship |
+| [SpaceLab](https://spacelab.kz/ru) | Software Developer | Internship |
 | iQadam System | Software Developer | Internship · [Certificate](./iqadam_certificate.jpg) |
 
 </div>
@@ -98,9 +98,5 @@ I'm a **Frontend Developer** from Kazakhstan, passionate about building smart, s
 <br/>
 
 ### (⌐■_■)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=100&section=footer" alt="footer" width="100%" />
 
 </div>
