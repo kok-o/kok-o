@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:24292e&height=110&section=header&text=Software%20Engineer&fontSize=30&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Developer%20Tools&descAlignY=66&descSize=15&animation=fadeIn" alt="banner" width="100%" />
+<img src="https://raw.githubusercontent.com/kok-o/kok-o/main/banner.svg" alt="Software Engineer · AI &amp; Developer Tools" width="100%" />
 
 <p>Building tools for AI-assisted development.</p>
 
