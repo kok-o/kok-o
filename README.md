@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kok-o/kok-o/main/banner.svg" alt="Nurkhan Esenbek - Banner" width="100%" />
+<img src="./banner.svg" alt="Nurkhan Esenbek - Banner" width="100%" />
 
 <br/><br/>
 
