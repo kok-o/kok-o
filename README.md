@@ -1,8 +1,12 @@
-<h1 align="center">Nurkhan Esenbek</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineer</strong> • AI Tooling, Context Governance & Systems
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:24292e&height=160&section=header&text=Nurkhan%20Esenbek&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=16&animation=fadeIn" alt="banner" width="100%" />
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=388BFD&center=true&vCenter=true&width=500&lines=Building+AI+Tooling+%26+Systems;Open-Source+Contributor+%40+Soup;Context+Governance+%26+Security;Full-Stack+Developer" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <a href="https://t.me/k0ko_tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -11,11 +15,13 @@
   <a href="mailto:esenbeknurhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+</div>
+
 ---
 
-### Featured Project
+### Featured Projects
 
-#### [ContextOS](https://github.com/kok-o/contextos-agents)
+#### <a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="22" align="absmiddle" alt="ContextOS logo" /> ContextOS</a>
 Deterministic context compiler and policy engine for AI coding assistants (Gemini, Claude Code, Cursor, Copilot, Aider, Zed).
 
 - Eliminates prompt bloat and context drift by dynamically compiling only task-relevant engineering rules and skills.
@@ -25,6 +31,12 @@ Deterministic context compiler and policy engine for AI coding assistants (Gemin
 npx contextos-agents init
 contextos resolve "auth session validation" --files src/auth/session.ts --explain
 ```
+
+#### <a href="https://github.com/kok-o/Stroq"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/stroq_logo.svg" width="22" align="absmiddle" alt="Stroq logo" /> Stroq</a>
+Local action firewall and runtime policy engine for AI coding agents.
+
+- Scans files and tool inputs an agent reads, tracks taint propagation across the session, and blocks dangerous follow-up actions.
+- Enforces fail-closed security guarantees against prompt injection, unverified tool execution, and supply-chain drift.
 
 ---
 
