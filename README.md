@@ -66,8 +66,13 @@ Deterministic context compiler and policy engine for AI coding assistants (Gemin
 
 ### Open-Source Contributions
 
-#### [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+<div align="center">
+
+### <a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/soup.png" width="34" align="absmiddle" alt="Soup logo" /> MakazhanAlpamys/Soup</a>
+
 Open-source library for training, fine-tuning, and distillation of LLMs on PyTorch (26 author Pull Requests):
+
+</div>
 
 - **GPU/Host Async Optimization** ([PR #1026](https://github.com/MakazhanAlpamys/Soup/pull/1026)): Implemented `DistillNonfiniteTracker` to catch non-finite teacher logits on GPU tensors without device-to-host synchronization (`.item()`), preventing throughput stalls during distillation.
 - **Unified Callback Architecture** ([PR #1023](https://github.com/MakazhanAlpamys/Soup/pull/1023)): Unified callback parameter extraction (`soup_callback_kwargs`) across all 16 trainers (`sft`, `grpo`, `dpo`, `ppo`, `distill`, etc.), adding schema gating and AST validation tests.
