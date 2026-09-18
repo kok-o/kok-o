@@ -5,14 +5,14 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=388BFD&center=true&vCenter=true&width=500&lines=Building+AI+Tooling+%26+Systems;Open-Source+Contributor+%40+Soup;Context+Governance+%26+Security;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=388BFD&center=true&vCenter=true&width=520&lines=Building+AI+Tooling+%26+Systems;Open-Source+Contributor+%40+Soup;Context+Governance+%26+Security;Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <a href="https://t.me/k0ko_tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://linkedin.com/in/nurkhan-esenbek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://nurkhan.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:esenbeknurhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/k0ko_tg"><img src="https://img.shields.io/badge/Telegram-24292e?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://linkedin.com/in/nurkhan-esenbek"><img src="https://img.shields.io/badge/LinkedIn-24292e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nurkhan.space"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:esenbeknurhan@gmail.com"><img src="https://img.shields.io/badge/Email-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
