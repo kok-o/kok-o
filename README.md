@@ -21,8 +21,13 @@
 
 ### Featured Projects
 
+<div align="center">
+
 #### <a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="22" align="absmiddle" alt="ContextOS logo" /> ContextOS</a>
+
 Deterministic context compiler and policy engine for AI coding assistants (Gemini, Claude Code, Cursor, Copilot, Aider, Zed).
+
+</div>
 
 ---
 
