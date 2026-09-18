@@ -1,12 +1,8 @@
-<div align="center">
+<h1 align="center">Nurkhan Esenbek</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Nurkhan%20Esenbek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
-
-<br/><br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=388BFD&center=true&vCenter=true&width=650&lines=Building+AI+Tooling+%26+Context+Governance;Open+Source+Contributor+%40+MakazhanAlpamys%2FSoup;Full-Stack+Development+%E2%80%A2+PyTorch+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Python" alt="Typing SVG" />
-</a>
+<p align="center">
+  <strong>Software Engineer</strong> • AI Tooling, Context Governance & Systems
+</p>
 
 <p align="center">
   <a href="https://t.me/k0ko_tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -15,7 +11,20 @@
   <a href="mailto:esenbeknurhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-</div>
+---
+
+### Featured Project
+
+#### [ContextOS](https://github.com/kok-o/contextos-agents)
+Deterministic context compiler and policy engine for AI coding assistants (Gemini, Claude Code, Cursor, Copilot, Aider, Zed).
+
+- Eliminates prompt bloat and context drift by dynamically compiling only task-relevant engineering rules and skills.
+- Packaged as [`contextos-agents` v2.0.0](https://www.npmjs.com/package/contextos-agents) on npm with automated CI quality gates and native `node --test` suite.
+
+```bash
+npx contextos-agents init
+contextos resolve "auth session validation" --files src/auth/session.ts --explain
+```
 
 ---
 
@@ -24,37 +33,10 @@
 #### [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
 Open-source library for training, fine-tuning, and distillation of LLMs on PyTorch (26 author Pull Requests):
 
-- **GPU/Host Async Optimization** ([PR #1026](https://github.com/MakazhanAlpamys/Soup/pull/1026)): Implemented `DistillNonfiniteTracker` to catch non-finite teacher logits directly on GPU tensors without device-to-host synchronization (`.item()`), preventing training throughput stalls.
+- **GPU/Host Async Optimization** ([PR #1026](https://github.com/MakazhanAlpamys/Soup/pull/1026)): Implemented `DistillNonfiniteTracker` to catch non-finite teacher logits on GPU tensors without device-to-host synchronization (`.item()`), preventing throughput stalls during distillation.
 - **Unified Callback Architecture** ([PR #1023](https://github.com/MakazhanAlpamys/Soup/pull/1023)): Unified callback parameter extraction (`soup_callback_kwargs`) across all 16 trainers (`sft`, `grpo`, `dpo`, `ppo`, `distill`, etc.), adding schema gating and AST validation tests.
 - **RLHF Reward Hacking Stress Tests** ([PR #918](https://github.com/MakazhanAlpamys/Soup/pull/918)): Added structure-preserving adversarial attack families (`wrapped_junk`, `answer_spray`) to evaluate verifier robustness against reward gaming in reasoning models.
 - **Cross-Platform Security & CI Gates** ([PR #1024](https://github.com/MakazhanAlpamys/Soup/pull/1024), [PR #921](https://github.com/MakazhanAlpamys/Soup/pull/921)): Hardened Windows symlink and TOCTOU defense in draft registries and unified CLI exit code taxonomy (0/2/3) across evaluation gate commands.
-
----
-
-### Featured Project
-
-<div align="center">
-
-### <a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="36" align="absmiddle" alt="logo" /> ContextOS Agents</a>
-
-<p><em>Deterministic context compiler and policy engine for AI coding assistants (Gemini, Claude Code, Cursor, Copilot, Aider, Zed).</em></p>
-
-<p>
-  <a href="https://www.npmjs.com/package/contextos-agents"><img src="https://img.shields.io/npm/v/contextos-agents?color=18181b&logo=npm&style=flat-square" alt="npm version" /></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/node-%3E%3D22.0.0-18181b?logo=node.js&style=flat-square" alt="Node.js" /></a>
-  <a href="https://github.com/kok-o/contextos-agents/actions"><img src="https://img.shields.io/badge/CI-passing-success?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
-</p>
-
-</div>
-
-- **Core Problem**: Monolithic prompt rules cause token overflow, context drift, and instruction conflicts across different IDEs and developer workflows.
-- **Architecture**: Dynamic skill resolution engine based on graph dependencies, multi-agent configuration compiler, and automated CI quality gates.
-- **Engineering Quality**: Published npm package ([`contextos-agents` v2.0.0](https://www.npmjs.com/package/contextos-agents)), comprehensive test suite running on Node.js native test runner (`node --test`), pre-flight diagnostic system (`contextos doctor`).
-- **Quick Start**:
-  ```bash
-  npx contextos-agents init
-  contextos resolve "auth session validation" --files src/auth/session.ts --explain
-  ```
 
 ---
 
