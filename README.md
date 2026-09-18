@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Nurkhan Esenbek - Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/kok-o/kok-o/main/banner.svg" alt="Nurkhan Esenbek - Banner" width="100%" />
 
 <br/><br/>
 
@@ -33,7 +33,7 @@ I am a **Software Developer** focused on building intelligent agentic systems, s
 
 <div align="center">
 
-### <a href="https://github.com/kok-o/contextos-agents"><img src="./log_k.png" width="36" align="absmiddle" alt="logo" /> ContextOS Agents</a>
+### <a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="36" align="absmiddle" alt="logo" /> ContextOS Agents</a>
 
 <p><em>Deterministic context compiler and policy engine for AI coding assistants. Prevents token overflow and enforces project engineering rules.</em></p>
 
@@ -72,7 +72,7 @@ I am a **Software Developer** focused on building intelligent agentic systems, s
 | Company | Role | Highlights |
 |:---|:---|:---|
 | **[SpaceLab](https://spacelab.kz/ru)** | Software Developer Intern | Backend API development, architecture integrations & team workflows |
-| **iQadam System** | Software Developer Intern | Commercial software development · [Certificate](./iqadam_certificate.jpg) |
+| **iQadam System** | Software Developer Intern | Commercial software development · [Certificate](https://github.com/kok-o/kok-o/blob/main/iqadam_certificate.jpg) |
 
 ---
 
