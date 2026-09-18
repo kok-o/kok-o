@@ -24,20 +24,6 @@
 #### <a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="22" align="absmiddle" alt="ContextOS logo" /> ContextOS</a>
 Deterministic context compiler and policy engine for AI coding assistants (Gemini, Claude Code, Cursor, Copilot, Aider, Zed).
 
-- Eliminates prompt bloat and context drift by dynamically compiling only task-relevant engineering rules and skills.
-- Packaged as [`contextos-agents` v2.0.0](https://www.npmjs.com/package/contextos-agents) on npm with automated CI quality gates and native `node --test` suite.
-
-```bash
-npx contextos-agents init
-contextos resolve "auth session validation" --files src/auth/session.ts --explain
-```
-
-#### <a href="https://github.com/kok-o/Stroq"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/stroq_logo.svg" width="22" align="absmiddle" alt="Stroq logo" /> Stroq</a>
-Local action firewall and runtime policy engine for AI coding agents.
-
-- Scans files and tool inputs an agent reads, tracks taint propagation across the session, and blocks dangerous follow-up actions.
-- Enforces fail-closed security guarantees against prompt injection, unverified tool execution, and supply-chain drift.
-
 ---
 
 ### Open-Source Contributions
