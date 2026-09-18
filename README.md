@@ -1,8 +1,21 @@
-# Nurkhan Esenbek
+<div align="center">
 
-Software Engineer • Python, TypeScript, Node.js • AI Tooling & Systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Nurkhan%20Esenbek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
 
-[LinkedIn](https://linkedin.com/in/nurkhan-esenbek) • [Telegram](https://t.me/k0ko_tg) • [Portfolio](https://nurkhan.space) • [Email](mailto:esenbeknurhan@gmail.com)
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=388BFD&center=true&vCenter=true&width=650&lines=Building+AI+Tooling+%26+Context+Governance;Open+Source+Contributor+%40+MakazhanAlpamys%2FSoup;Full-Stack+Development+%E2%80%A2+PyTorch+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Python" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://t.me/k0ko_tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://linkedin.com/in/nurkhan-esenbek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nurkhan.space"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:esenbeknurhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+</div>
 
 ---
 
@@ -20,8 +33,19 @@ Open-source library for training, fine-tuning, and distillation of LLMs on PyTor
 
 ### Featured Project
 
-#### [ContextOS](https://github.com/kok-o/contextos-agents)
-Deterministic context compiler and policy engine for AI coding assistants (Gemini, Claude Code, Cursor, Copilot, Aider, Zed).
+<div align="center">
+
+### <a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="36" align="absmiddle" alt="logo" /> ContextOS Agents</a>
+
+<p><em>Deterministic context compiler and policy engine for AI coding assistants (Gemini, Claude Code, Cursor, Copilot, Aider, Zed).</em></p>
+
+<p>
+  <a href="https://www.npmjs.com/package/contextos-agents"><img src="https://img.shields.io/npm/v/contextos-agents?color=18181b&logo=npm&style=flat-square" alt="npm version" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/node-%3E%3D22.0.0-18181b?logo=node.js&style=flat-square" alt="Node.js" /></a>
+  <a href="https://github.com/kok-o/contextos-agents/actions"><img src="https://img.shields.io/badge/CI-passing-success?style=flat-square&logo=githubactions&logoColor=white" alt="CI" /></a>
+</p>
+
+</div>
 
 - **Core Problem**: Monolithic prompt rules cause token overflow, context drift, and instruction conflicts across different IDEs and developer workflows.
 - **Architecture**: Dynamic skill resolution engine based on graph dependencies, multi-agent configuration compiler, and automated CI quality gates.
@@ -31,6 +55,39 @@ Deterministic context compiler and policy engine for AI coding assistants (Gemin
   npx contextos-agents init
   contextos resolve "auth session validation" --files src/auth/session.ts --explain
   ```
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**AI & Systems**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br/>
+
+**Frontend & Web**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br/>
+
+**Backend, Data & Tooling**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
@@ -58,15 +115,6 @@ Deterministic context compiler and policy engine for AI coding assistants (Gemin
 ### Education
 
 - **Astana IT College**, Astana - Software Engineering
-
----
-
-### Tech Stack
-
-- **Languages**: Python, TypeScript, JavaScript, SQL, HTML/CSS
-- **AI & Systems**: PyTorch, LLM Training & Fine-Tuning (SFT, DPO, PPO, Distillation), Context Governance
-- **Frontend & Web**: React, Next.js, Tailwind CSS, WebSockets, REST APIs
-- **Tooling & Infrastructure**: Node.js, Git, GitHub Actions, Docker, Linux, Windows APIs
 
 ---
 
