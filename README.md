@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Nurkhan Esenbek - Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Nurkhan%20Esenbek&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
 
 <br/><br/>
 
