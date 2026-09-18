@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://t.me/k0ko_tg"><img src="https://img.shields.io/badge/Telegram-24292e?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://linkedin.com/in/nurkhan-esenbek"><img src="https://img.shields.io/badge/LinkedIn-24292e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/nurkhan-esenbek"><img src="https://img.shields.io/badge/LinkedIn-24292e?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOS4yNVYxMC45SDYuNDZNNy44NiA2LjU1YTEuNjQgMS42NCAwIDEgMCAwIDMuMjggMS42NCAxLjY0IDAgMCAwIDAtMy4yOFoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
   <a href="https://nurkhan.space"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:esenbeknurhan@gmail.com"><img src="https://img.shields.io/badge/Email-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
