@@ -36,9 +36,11 @@ Contributor to a PyTorch toolkit for LLM training and fine-tuning. **[40+ merged
 
 </div>
 
-- [Fixed assistant-only loss masking in SFT packing](https://github.com/MakazhanAlpamys/Soup/pull/1304).
-- [Added device-side checks for non-finite distillation losses](https://github.com/MakazhanAlpamys/Soup/pull/1026).
-- [Unified trainer callbacks across SFT, DPO and GRPO](https://github.com/MakazhanAlpamys/Soup/pull/1023).
+<p align="center">
+  <a href="https://github.com/MakazhanAlpamys/Soup/pull/1304">Fixed assistant-only loss masking in SFT packing</a>.<br/>
+  <a href="https://github.com/MakazhanAlpamys/Soup/pull/1026">Added device-side checks for non-finite distillation losses</a>.<br/>
+  <a href="https://github.com/MakazhanAlpamys/Soup/pull/1023">Unified trainer callbacks across SFT, DPO and GRPO</a>.
+</p>
 
 ---
 
