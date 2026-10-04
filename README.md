@@ -4,9 +4,7 @@
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=388BFD&center=true&vCenter=true&width=520&lines=Building+AI+Tooling+%26+Systems;Open-Source+Contributor+%40+Soup;Context+Governance+%26+Security;Full-Stack+Developer" alt="Typing SVG" />
-</a>
+<p>Building AI developer tools and contributing to LLM training infrastructure.</p>
 
 <p align="center">
   <a href="https://t.me/k0ko_tg"><img src="https://img.shields.io/badge/Telegram-24292e?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -19,48 +17,25 @@
 
 ---
 
-### Featured Projects
+### Featured Project
 
 <div align="center">
 
 ### <a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="34" align="absmiddle" alt="ContextOS logo" /> ContextOS</a>
 
-Deterministic context compiler and policy engine for AI coding assistants (Gemini, Claude Code, Cursor, Copilot, Aider, Zed).
+Version-controlled project rules and agent skills for AI coding tools.
 
 </div>
 
----
+I build and maintain ContextOS, a deterministic context compiler and policy engine. It generates configuration exports for Gemini, Claude Code, Cursor, Copilot, Aider and Zed.
 
-### Tech Stack
+- **Core:** task-based skill selection, adapter exports, project overrides and configuration drift checks in CI.
+- **Distribution:** a published npm CLI with an optional MCP companion (beta, read-only by default).
+- **Release verification:** [v2.3.2](https://github.com/kok-o/contextos-agents/releases/tag/v2.3.2) records 542 core and 635 MCP tests, plus production-only installation, upgrade and checkpoint rollback on Windows, Linux and macOS.
 
-<div align="center">
+**Built with:** JavaScript/TypeScript, Node.js, MCP, GitHub Actions.
 
-**AI & Systems**  
-![Python](https://img.shields.io/badge/Python-24292e?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-24292e?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-24292e?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-24292e?style=flat-square&logo=linux&logoColor=white)
-
-<br/>
-
-**Frontend & Web**  
-![TypeScript](https://img.shields.io/badge/TypeScript-24292e?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-24292e?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-24292e?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-24292e?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24292e?style=flat-square&logo=tailwind-css&logoColor=white)
-
-<br/>
-
-**Backend, Data & Tooling**  
-![Node.js](https://img.shields.io/badge/Node.js-24292e?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292e?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-24292e?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-24292e?style=flat-square&logo=supabase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292e?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git&logoColor=white)
-
-</div>
+[Repository](https://github.com/kok-o/contextos-agents) · [npm](https://www.npmjs.com/package/contextos-agents) · [Release evidence](https://github.com/kok-o/contextos-agents/blob/main/docs/evidence/release-2.3.2.json)
 
 ---
 
@@ -68,16 +43,23 @@ Deterministic context compiler and policy engine for AI coding assistants (Gemin
 
 <div align="center">
 
-### <a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/soup.png" width="34" align="absmiddle" alt="Soup logo" /> MakazhanAlpamys/Soup</a>
+### <a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/soup.png" width="34" align="absmiddle" alt="Soup logo" /> Soup</a>
 
-Open-source library for training, fine-tuning, and distillation of LLMs on PyTorch (26 author Pull Requests):
+Open-source LLM training, fine-tuning and distillation on PyTorch.
 
 </div>
 
-- **GPU/Host Async Optimization** ([PR #1026](https://github.com/MakazhanAlpamys/Soup/pull/1026)): Implemented `DistillNonfiniteTracker` to catch non-finite teacher logits on GPU tensors without device-to-host synchronization (`.item()`), preventing throughput stalls during distillation.
-- **Unified Callback Architecture** ([PR #1023](https://github.com/MakazhanAlpamys/Soup/pull/1023)): Unified callback parameter extraction (`soup_callback_kwargs`) across all 16 trainers (`sft`, `grpo`, `dpo`, `ppo`, `distill`, etc.), adding schema gating and AST validation tests.
-- **RLHF Reward Hacking Stress Tests** ([PR #918](https://github.com/MakazhanAlpamys/Soup/pull/918)): Added structure-preserving adversarial attack families (`wrapped_junk`, `answer_spray`) to evaluate verifier robustness against reward gaming in reasoning models.
-- **Cross-Platform Security & CI Gates** ([PR #1024](https://github.com/MakazhanAlpamys/Soup/pull/1024), [PR #921](https://github.com/MakazhanAlpamys/Soup/pull/921)): Hardened Windows symlink and TOCTOU defense in draft registries and unified CLI exit code taxonomy (0/2/3) across evaluation gate commands.
+I contribute fixes and regression coverage to training pipelines, diagnostics and tooling. **40 merged pull requests as of October 5, 2026.** [Browse contributions](https://github.com/MakazhanAlpamys/Soup/pulls?q=is%3Apr+author%3Akok-o).
+
+Selected merged work:
+
+- **SFT packing correctness** ([#1304](https://github.com/MakazhanAlpamys/Soup/pull/1304)): Preserved assistant-only loss masks during sample packing, keeping masked prompt tokens out of the training loss.
+- **Distillation diagnostics** ([#1026](https://github.com/MakazhanAlpamys/Soup/pull/1026)): Implemented device-side tracking of persistent non-finite distillation losses with periodic host checks, avoiding per-step host synchronization.
+- **Trainer callbacks** ([#1023](https://github.com/MakazhanAlpamys/Soup/pull/1023)): Unified callback argument handling across SFT, DPO, GRPO and other trainers, with schema and regression checks.
+- **Reward stress testing** ([#918](https://github.com/MakazhanAlpamys/Soup/pull/918)): Added structure-preserving adversarial families, including `wrapped_junk` and `answer_spray`, to test verifier robustness.
+- **Snapshot safety** ([#1492](https://github.com/MakazhanAlpamys/Soup/pull/1492)): Refused directory symlinks and Windows junctions during MCP plan-time snapshots.
+
+**Technologies:** Python, PyTorch, Transformers, TRL.
 
 ---
 
