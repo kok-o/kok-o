@@ -18,25 +18,27 @@
 
 ---
 
+<div align="center">
+
 ### <a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="28" align="absmiddle" alt="" /> ContextOS</a>
 
 My open-source CLI for managing project rules and agent skills across AI coding tools. Deterministic exports and drift checks keep configurations consistent.
 
-*JavaScript / TypeScript · Node.js · MCP*
-
-[npm package](https://www.npmjs.com/package/contextos-agents) · [Releases & verification](https://github.com/kok-o/contextos-agents/releases)
+</div>
 
 ---
+
+<div align="center">
 
 ### <a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/soup.png" width="28" align="absmiddle" alt="" /> Soup</a>
 
 Contributor to a PyTorch toolkit for LLM training and fine-tuning. **[40+ merged PRs](https://github.com/MakazhanAlpamys/Soup/pulls?q=is%3Apr+is%3Amerged+author%3Akok-o).**
 
+</div>
+
 - [Fixed assistant-only loss masking in SFT packing](https://github.com/MakazhanAlpamys/Soup/pull/1304).
 - [Added device-side checks for non-finite distillation losses](https://github.com/MakazhanAlpamys/Soup/pull/1026).
 - [Unified trainer callbacks across SFT, DPO and GRPO](https://github.com/MakazhanAlpamys/Soup/pull/1023).
-
-*Python · PyTorch · Transformers · TRL*
 
 ---
 
