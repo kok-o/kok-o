@@ -18,49 +18,25 @@
 
 ---
 
-### Featured Project
+### <a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="28" align="absmiddle" alt="" /> ContextOS</a>
 
-<div align="center">
+My open-source CLI for managing project rules and agent skills across AI coding tools. Deterministic exports and drift checks keep configurations consistent.
 
-### <a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="34" align="absmiddle" alt="ContextOS logo" /> ContextOS</a>
+*JavaScript / TypeScript · Node.js · MCP*
 
-Version-controlled project rules and agent skills for AI coding tools.
-
-</div>
-
-I build and maintain ContextOS, a deterministic context compiler and policy engine. It generates configuration exports for Gemini, Claude Code, Cursor, Copilot, Aider and Zed.
-
-- **Core:** task-based skill selection, adapter exports, project overrides and configuration drift checks in CI.
-- **Distribution:** a published npm CLI with an optional MCP companion (beta, read-only by default).
-- **Release verification:** [v2.3.2](https://github.com/kok-o/contextos-agents/releases/tag/v2.3.2) records 542 core and 635 MCP tests, plus production-only installation, upgrade and checkpoint rollback on Windows, Linux and macOS.
-
-**Built with:** JavaScript/TypeScript, Node.js, MCP, GitHub Actions.
-
-[Repository](https://github.com/kok-o/contextos-agents) · [npm](https://www.npmjs.com/package/contextos-agents) · [Release evidence](https://github.com/kok-o/contextos-agents/blob/main/docs/evidence/release-2.3.2.json)
+[npm package](https://www.npmjs.com/package/contextos-agents) · [Releases & verification](https://github.com/kok-o/contextos-agents/releases)
 
 ---
 
-### Open-Source Contributions
+### <a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/soup.png" width="28" align="absmiddle" alt="" /> Soup</a>
 
-<div align="center">
+Contributor to a PyTorch toolkit for LLM training and fine-tuning. **[40+ merged PRs](https://github.com/MakazhanAlpamys/Soup/pulls?q=is%3Apr+is%3Amerged+author%3Akok-o).**
 
-### <a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/soup.png" width="34" align="absmiddle" alt="Soup logo" /> Soup</a>
+- [Fixed assistant-only loss masking in SFT packing](https://github.com/MakazhanAlpamys/Soup/pull/1304).
+- [Added device-side checks for non-finite distillation losses](https://github.com/MakazhanAlpamys/Soup/pull/1026).
+- [Unified trainer callbacks across SFT, DPO and GRPO](https://github.com/MakazhanAlpamys/Soup/pull/1023).
 
-Open-source LLM training, fine-tuning and distillation on PyTorch.
-
-</div>
-
-I contribute fixes and regression coverage to training pipelines, diagnostics and tooling. **40 merged pull requests as of October 5, 2026.** [Browse contributions](https://github.com/MakazhanAlpamys/Soup/pulls?q=is%3Apr+author%3Akok-o).
-
-Selected merged work:
-
-- **SFT packing correctness** ([#1304](https://github.com/MakazhanAlpamys/Soup/pull/1304)): Preserved assistant-only loss masks during sample packing, keeping masked prompt tokens out of the training loss.
-- **Distillation diagnostics** ([#1026](https://github.com/MakazhanAlpamys/Soup/pull/1026)): Implemented device-side tracking of persistent non-finite distillation losses with periodic host checks, avoiding per-step host synchronization.
-- **Trainer callbacks** ([#1023](https://github.com/MakazhanAlpamys/Soup/pull/1023)): Unified callback argument handling across SFT, DPO, GRPO and other trainers, with schema and regression checks.
-- **Reward stress testing** ([#918](https://github.com/MakazhanAlpamys/Soup/pull/918)): Added structure-preserving adversarial families, including `wrapped_junk` and `answer_spray`, to test verifier robustness.
-- **Snapshot safety** ([#1492](https://github.com/MakazhanAlpamys/Soup/pull/1492)): Refused directory symlinks and Windows junctions during MCP plan-time snapshots.
-
-**Technologies:** Python, PyTorch, Transformers, TRL.
+*Python · PyTorch · Transformers · TRL*
 
 ---
 
