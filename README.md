@@ -4,7 +4,9 @@
 
 <br/><br/>
 
-<p>Building AI developer tools and contributing to LLM training infrastructure.</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=6500&amp;pause=1800&amp;color=388BFD&amp;center=true&amp;vCenter=true&amp;width=950&amp;height=45&amp;repeat=true&amp;lines=Building+AI+developer+tools+and+contributing+to+LLM+training+infrastructure." width="100%" alt="Building AI developer tools and contributing to LLM training infrastructure." />
+</a>
 
 <p align="center">
   <a href="https://t.me/k0ko_tg"><img src="https://img.shields.io/badge/Telegram-24292e?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
