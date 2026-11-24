@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -40,8 +38,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### Contribution Activity
 
