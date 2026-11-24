@@ -11,36 +11,35 @@
   <a href="https://t.me/k0ko_tg"><img src="https://img.shields.io/badge/Telegram-24292e?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://linkedin.com/in/nurkhan-esenbek"><img src="https://img.shields.io/badge/LinkedIn-24292e?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOS4yNVYxMC45SDYuNDZNNy44NiA2LjU1YTEuNjQgMS42NCAwIDEgMCAwIDMuMjggMS42NCAxLjY0IDAgMCAwIDAtMy4yOFoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
   <a href="https://nurkhan.space"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:esenbeknurhan@gmail.com"><img src="https://img.shields.io/badge/Email-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:esenbeknrhan2@gmail.com"><img src="https://img.shields.io/badge/Email-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
 
 ---
 
-<div align="center">
-
-### <a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="28" align="absmiddle" alt="" /> ContextOS</a>
-
-My open-source CLI for managing project rules and agent skills across AI coding tools. Deterministic exports and drift checks keep configurations consistent.
-
-</div>
-
----
-
-<div align="center">
-
-### <a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/soup.png" width="28" align="absmiddle" alt="" /> Soup</a>
-
-Contributor to a PyTorch toolkit for LLM training and fine-tuning. **[40+ merged PRs](https://github.com/MakazhanAlpamys/Soup/pulls?q=is%3Apr+is%3Amerged+author%3Akok-o).**
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/MakazhanAlpamys/Soup/pull/1304">Fixed assistant-only loss masking in SFT packing</a>.<br/>
-  <a href="https://github.com/MakazhanAlpamys/Soup/pull/1026">Added device-side checks for non-finite distillation losses</a>.<br/>
-  <a href="https://github.com/MakazhanAlpamys/Soup/pull/1023">Unified trainer callbacks across SFT, DPO and GRPO</a>.
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="26" align="absmiddle" alt="ContextOS" /></a>&nbsp;<a href="https://github.com/kok-o/contextos-agents">ContextOS</a></h3>
+      <p>Deterministic context and policy compiler for AI coding agents. Keeps rules and skills in sync with CI drift checks.</p>
+      <ul>
+        <li>Published on npm as <a href="https://www.npmjs.com/package/contextos-agents"><code>contextos-agents</code></a> (<a href="https://github.com/kok-o/contextos-agents/releases/tag/v3.0.0">v3.0.0</a>).</li>
+        <li>Exports to Claude, Cursor, Codex, Antigravity &amp; more.</li>
+        <li>Rule routing (<code>always</code>, <code>globs</code>, <code>auto</code>) &amp; CI drift gate.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/soup.png" width="26" align="absmiddle" alt="Soup" /></a>&nbsp;<a href="https://github.com/MakazhanAlpamys/Soup">Soup</a></h3>
+      <p>Contributor to an open-source PyTorch toolkit for LLM training and fine-tuning. <strong><a href="https://github.com/MakazhanAlpamys/Soup/pulls?q=is%3Apr+is%3Amerged+author%3Akok-o">110+ merged PRs</a>.</strong></p>
+      <ul>
+        <li><a href="https://github.com/MakazhanAlpamys/Soup/pull/2443">Added captured-token student objective in autodistill</a>.</li>
+        <li><a href="https://github.com/MakazhanAlpamys/Soup/pull/2159">Saved and resumed boundary LoRA in layer streaming</a>.</li>
+        <li><a href="https://github.com/MakazhanAlpamys/Soup/pull/1304">Fixed assistant-only loss masking in SFT packing</a>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
