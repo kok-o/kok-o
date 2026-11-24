@@ -16,28 +16,34 @@
 
 </div>
 
+<br/>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/kok-o/contextos-agents"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/log_k.png" width="26" align="absmiddle" alt="ContextOS" /></a>&nbsp;<a href="https://github.com/kok-o/contextos-agents">ContextOS</a></h3>
-      <p>Deterministic context and policy compiler for AI coding agents. Keeps rules and skills in sync with CI drift checks.</p>
+      <p>Deterministic context and policy compiler for AI coding agents, keeping rules in sync in CI.</p>
       <ul>
-        <li>Published on npm as <a href="https://www.npmjs.com/package/contextos-agents"><code>contextos-agents</code></a> (<a href="https://github.com/kok-o/contextos-agents/releases/tag/v3.0.0">v3.0.0</a>).</li>
-        <li>Exports to Claude, Cursor, Codex, Antigravity &amp; more.</li>
-        <li>Rule routing (<code>always</code>, <code>globs</code>, <code>auto</code>) &amp; CI drift gate.</li>
+        <li>npm package <a href="https://www.npmjs.com/package/contextos-agents"><code>contextos-agents</code></a> (<a href="https://github.com/kok-o/contextos-agents/releases/tag/v3.0.0">v3.0.0</a>).</li>
+        <li>Exports to Claude, Cursor, Codex &amp; more.</li>
+        <li>Supports <code>always</code>, <code>globs</code> &amp; <code>auto</code> scopes.</li>
       </ul>
+      <div></div>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MakazhanAlpamys/Soup"><img src="https://raw.githubusercontent.com/kok-o/kok-o/main/soup.png" width="26" align="absmiddle" alt="Soup" /></a>&nbsp;<a href="https://github.com/MakazhanAlpamys/Soup">Soup</a></h3>
-      <p>Contributor to an open-source PyTorch toolkit for LLM training and fine-tuning. <strong><a href="https://github.com/MakazhanAlpamys/Soup/pulls?q=is%3Apr+is%3Amerged+author%3Akok-o">110+ merged PRs</a>.</strong></p>
+      <p>Contributor to a PyTorch toolkit for LLM training and fine-tuning. <strong><a href="https://github.com/MakazhanAlpamys/Soup/pulls?q=is%3Apr+is%3Amerged+author%3Akok-o">110+ merged PRs</a>.</strong></p>
       <ul>
-        <li><a href="https://github.com/MakazhanAlpamys/Soup/pull/2443">Added captured-token student objective in autodistill</a>.</li>
-        <li><a href="https://github.com/MakazhanAlpamys/Soup/pull/2159">Saved and resumed boundary LoRA in layer streaming</a>.</li>
-        <li><a href="https://github.com/MakazhanAlpamys/Soup/pull/1304">Fixed assistant-only loss masking in SFT packing</a>.</li>
+        <li><a href="https://github.com/MakazhanAlpamys/Soup/pull/2443">Captured-token objective in autodistill</a>.</li>
+        <li><a href="https://github.com/MakazhanAlpamys/Soup/pull/2159">Boundary LoRA save &amp; resume in streaming</a>.</li>
+        <li><a href="https://github.com/MakazhanAlpamys/Soup/pull/1304">Assistant loss masking in SFT packing</a>.</li>
       </ul>
+      <div></div>
     </td>
   </tr>
 </table>
+
+<br/>
 
 ### Contribution Activity
 
